@@ -1,0 +1,7 @@
+# from https://github.com/github/gitignore
+
+.idea/
+out/
+target/
+
+*.iml
